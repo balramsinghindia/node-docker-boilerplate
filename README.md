@@ -1,6 +1,7 @@
 # node-js-sample-app used for Docker example
 
 Read Docker specific details in below URL
+<br/>
 https://medium.com/@reactjavascript/basic-docker-application-for-beginners-572870386b72
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
