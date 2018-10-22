@@ -1,4 +1,6 @@
-# node-js-sample-app used for Docker example
+<img src="https://www.cloudsigma.com/wp-content/uploads/docker-cloud-servers.png" alt="Docker" align="center" />
+
+# Sample Docker used in node application
 
 Read Docker specific details in below URL
 <br/>
